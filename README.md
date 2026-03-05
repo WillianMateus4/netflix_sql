@@ -1,4 +1,4 @@
-# Análise de dados de filmes e séries da Netflix usando SQL
+# 📊 Análise de dados de filmes e séries da Netflix usando SQL
 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white)
 ![NMicrosoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
@@ -236,7 +236,8 @@ GROUP BY
 
 ---
 
-## 👤 Autor - Willian Mateus Batista Oliveira
+## 👤 Autor
 
-* > **Linkedin:** [clique aqui para acessar](https://www.linkedin.com/in/willianmateus/)
-* > **Portfólio:** [clique aqui para acessar](https://willianmateus.lovable.app/)
+**Willian Mateus** | *Data Analyst & BI*
+
+ ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
